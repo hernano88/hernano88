@@ -16,11 +16,11 @@ My background combines real-world financial controls with hands-on Azure data en
 
 | Project | What it demonstrates |
 |---|---|
-| [Azure End-to-End Data Pipeline](https://github.com/hernano88/azure-end-to-end-data-pipeline) | ADF ingestion, ADLS Gen2, Databricks, PySpark, Spark SQL and Prophet forecasting in one documented flow. |
 | [Financial Controls: ACL/Oracle → Python/Jupyter](https://github.com/hernano88/acl-sql-uade) | Professional control pattern evolving from ACL to Python: Oracle extraction, bidirectional Pandas reconciliation, business-rule justifications, line/amount checks and Jupyter reporting. |
+| [Azure End-to-End Data Pipeline](https://github.com/hernano88/azure-end-to-end-data-pipeline) | ADF ingestion, ADLS Gen2, Databricks, PySpark, Spark SQL and Prophet forecasting in one documented flow. |
 | [Databricks + ADLS + PySpark Lab](https://github.com/hernano88/databricks-adls-sql-pyspark-lab) | Hands-on lakehouse workflow: storage access, DataFrame transformations, Spark SQL and processed-data persistence. |
-| [MyFigure4ever Business Analytics](https://github.com/hernano88/myfigure4ever) | A real microbusiness translated into landed cost, unit economics, inventory, cohort analysis and auditable Excel controls. |
 | [Azure Mapping Data Flow](https://github.com/hernano88/azure-mapping-dataflow-movies) | Visual ETL in Azure Data Factory with cleaning, derived fields and aggregations. |
+| [MyFigure4ever Business Analytics](https://github.com/hernano88/myfigure4ever) | A real microbusiness translated into landed cost, unit economics, inventory, cohort analysis and auditable Excel controls. |
 | [Telco Customer Churn ANN](https://github.com/hernano88/telco-customer-churn-ann) | End-to-end classification workflow using Python and an artificial neural network. |
 
 ## How I approach data work
