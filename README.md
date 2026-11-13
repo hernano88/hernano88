@@ -24,7 +24,7 @@ The control knowledge originated in a legacy ACL Analytics process. The public p
 
 | Project | What it demonstrates |
 |---|---|
-| [Financial Controls · Python, Pandas & Oracle SQL](https://github.com/hernano88/acl-sql-uade) | Three controls developed and used in my current work, reconstructed publicly: enrollment vs assigned billing, assigned vs billed movements, and theoretical vs applied scholarship. Demonstrates SQL preparation, Pandas reconciliation, business explanations and source/detail checks. |
+| [Financial Controls · Python, Pandas & Oracle SQL](https://github.com/hernano88/financial-controls-python-oracle) | Three controls developed and used in my current work, reconstructed publicly: enrollment vs assigned billing, assigned vs billed movements, and theoretical vs applied scholarship. Demonstrates SQL preparation, Pandas reconciliation, business explanations and source/detail checks. |
 | [Azure End-to-End Data Pipeline](https://github.com/hernano88/azure-end-to-end-data-pipeline) | ADF ingestion, ADLS Gen2, Databricks, PySpark, Spark SQL and Prophet forecasting in one documented flow. |
 | [Databricks + ADLS + PySpark Lab](https://github.com/hernano88/databricks-adls-sql-pyspark-lab) | Hands-on lakehouse workflow: storage access, DataFrame transformations, Spark SQL and processed-data persistence. |
 | [Azure Mapping Data Flow](https://github.com/hernano88/azure-mapping-dataflow-movies) | Visual ETL in Azure Data Factory with cleaning, derived fields and aggregations. |
@@ -71,7 +71,7 @@ El conocimiento de control se originó en un proceso anterior con ACL Analytics.
 
 ### Proyecto destacado
 
-[**Financial Controls · Python, Pandas & Oracle SQL**](https://github.com/hernano88/acl-sql-uade): tres controles de mi trabajo actual, reconstruidos públicamente para mostrar preparación SQL, conciliaciones en Pandas, justificaciones y cuadre de origen contra detalle.
+[**Financial Controls · Python, Pandas & Oracle SQL**](https://github.com/hernano88/financial-controls-python-oracle): tres controles de mi trabajo actual, reconstruidos públicamente para mostrar preparación SQL, conciliaciones en Pandas, justificaciones y cuadre de origen contra detalle.
 
 ### Mi forma de trabajar
 
